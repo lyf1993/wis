@@ -11,7 +11,7 @@
 					<key>kind</key>
 	  				<string>software-package</string>
 					<key>url</key>
-					<string>http://211.141.83.103:8093/x8/UI2/app.ipa</string>
+					<string>http://211.141.83.113:8081/x9/UI2/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>211.141.83.103:8093/x8/UI2/v-JVjUBb-zh_CN-/HumanMobileApp/images/app.png</string>
+					<string>http://211.141.83.113:8081/x9/UI2/v-UrYfiq-zh_CN-/WisdomApp/images/5.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>211.141.83.103:8093/x8/UI2/v-JVjUBb-zh_CN-/HumanMobileApp/images/app.png</string>
+					<string>http://211.141.83.113:8081/x9/UI2/v-UrYfiq-zh_CN-/WisdomApp/images/5.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.andone.oneapp</string>
+				<string>com.wisdoms.push</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>我的移动人生App</string>
+				<string>智慧物业App</string>
 			</dict>
 		</dict>
 	</array>
