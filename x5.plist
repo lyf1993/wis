@@ -11,7 +11,7 @@
 					<key>kind</key>
 	  				<string>software-package</string>
 					<key>url</key>
-					<string>http://211.141.83.113:8081/x9/UI2/app.ipa</string>
+					<string>http://211.141.83.113:8081/x10/UI2/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://211.141.83.113:8081/x9/UI2/v-UrYfiq-zh_CN-/WisdomApp/images/5.png</string>
+					<string>http://211.141.83.113:8081/x10/UI2/v-JZnM3i-zh_CN-/WisdomApp/images/5.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://211.141.83.113:8081/x9/UI2/v-UrYfiq-zh_CN-/WisdomApp/images/5.png</string>
+					<string>http://211.141.83.113:8081/x10/UI2/v-JZnM3i-zh_CN-/WisdomApp/images/5.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.wisdoms.push</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
